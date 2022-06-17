@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "deploymentId": {
-      "value": ""
+      "value": "gmac-sc102-dev"
     },
     "location": {
-      "value": "East US 2"
+      "value": "EastUS2"
     },
     "sitecoreAdminPassword": {
       "value": "9A4oEboY"
@@ -63,10 +63,10 @@
       "value": "GM@C2022!"
     },
     "solrConnectionString": {
-      "value": "GM@C2022!"
+      "value": "https://gmacdevsolr:8983/solr"
     },
     "xcSolrConnectionString": {
-      "value": "GM@C2022!"
+      "value": "https://gmacdevsolr:8983/solr"
     }
   }
 }
