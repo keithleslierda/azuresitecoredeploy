@@ -1,0 +1,72 @@
+﻿{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "deploymentId": {
+      "value": ""
+    },
+    "location": {
+      "value": "East US 2"
+    },
+    "sitecoreAdminPassword": {
+      "value": "b"
+    },
+    "licenseXml": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/license.xml"
+    },
+    "repAuthenticationApiKey": {
+      "value": "HjHUuEo4hkn6Z4EEVJFVbY8syhWYCUWw"
+    },
+    "sqlServerLogin": {
+      "value": "gmacdevsa"
+    },
+    "sqlServerPassword": {
+      "value": "72gmTfMPweYBvApryux9"
+    },
+    "siMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_dds.scwdp.zip"
+    },
+    "cmMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_cm.scwdp.zip"
+    },
+    "cdMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_cd.scwdp.zip"
+    },
+    "prcMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_prc.scwdp.zip"
+    },
+    "xcRefDataMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1referencedata.scwdp.zip"
+    },
+    "xcCollectMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1collection.scwdp.zip"
+    },
+    "xcSearchMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1collectionsearchsolr.scwdp.zip"
+    },
+    "cortexProcessingMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1cortexprocessing.scwdp.zip"
+    },
+    "cortexReportingMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1cortexreporting.scwdp.zip"
+    },
+    "maOpsMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1marketingautomation.scwdp.zip"
+    },
+    "maRepMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1marketingautomationreporting.scwdp.zip"
+    },
+    "authCertificateBlob": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/CA6D6779A583DB53FA8DD41659038A2E7DDD85C5.pfx"
+    },
+    "authCertificatePassword": {
+      "value": "GM@C2022!"
+    },
+    "solrConnectionString": {
+      "value": "GM@C2022!"
+    },
+    "xcSolrConnectionString": {
+      "value": "GM@C2022!"
+    }
+  }
+}
