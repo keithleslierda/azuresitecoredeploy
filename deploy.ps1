@@ -10,7 +10,7 @@ $Parameters = @{
 
      #set the size of all recommended instance sizes  
 
-     "sitecoreSKU"="Medium";
+     "sitecoreSKU"="Single";
 
      #by default this installs azuresearch
 
@@ -18,7 +18,7 @@ $Parameters = @{
 
      # you have created instead of using AzureSearch                                                                                                                                                             
 
-     "solrConnectionString"= "https://gmacdevsolr:8983/solr";
+     "solrConnectionString"= "http://aze-dsolr01:8983/solr";
 
 }
 
