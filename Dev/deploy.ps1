@@ -1,7 +1,7 @@
 $SCSDK="C:\projects\GMAC\Azure\Sitecore Azure Toolkit"
 $SCTemplates="https://github.com/keithleslierda/azuresitecoredeploy/raw/main/Dev"
 $DeploymentId = "rg-east-us2-dev-sitecore"
-$LicenseFile = "license.xml"
+$LicenseFile = "C:\projects\GMAC\Azure\Dev\license.xml"
 $SubscriptionId = "08691e42-d4cb-4017-887c-c1dc27e73c53"
 $Location="EastUS2"
 $ParamFile="azuredeploy.parameters.json"
