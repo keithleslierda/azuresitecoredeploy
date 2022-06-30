@@ -1,0 +1,15 @@
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_cd.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_cm.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_dds.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_prc.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1collection.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1collectionsearch.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1collectionsearchsolr.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1cortexprocessing.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1cortexreporting.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1marketingautomation.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1marketingautomationreporting.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp1referencedata.scwdp.zip
+https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore.Patch.EXM%2010.2.0%20rev.%20006766%20(Cloud)_cm.scwdp.zip
+
+DefaultEndpointsProtocol=https;AccountName=gmacsitecore;AccountKey=EZj3FlZmmLYyoLNPGTkqOjF/GiJ5Vl6rS7OXj3i16xCuGDiJEIy35quv4Z69oB5VSlhM3Hio8T/t+ASt6ZuMSg==;EndpointSuffix=core.windows.net

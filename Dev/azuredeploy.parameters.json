@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "deploymentId": {
+      "value": "gmac-sc102-dev"
+    },
+    "location": {
+      "value": "EastUS2"
+    },
+    "sitecoreAdminPassword": {
+      "value": "9A4oEboY"
+    },
+    "licenseXml": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/license.xml"
+    },
+    "sqlServerLogin": {
+      "value": "gmacdevsa"
+    },
+    "sqlServerPassword": {
+      "value": "72gmTfMPweYBvApryux9"
+    },
+    "siMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/XP0/Sitecore.IdentityServer.6.0.0-r00301.scwdp.zip"
+    },
+    "singleMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/XP0/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_single.scwdp.zip"
+    },
+    "xcSingleMsDeployPackageUrl": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/XP0/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp0xconnectsolr.scwdp.zip"
+    },
+    "authCertificateBlob": {
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/CA6D6779A583DB53FA8DD41659038A2E7DDD85C5.pfx"
+    },
+    "authCertificatePassword": {
+      "value": "GM@C2022!"
+    }
+  }
+}
