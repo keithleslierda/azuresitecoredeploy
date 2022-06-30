@@ -12,7 +12,7 @@
       "value": "9A4oEboY"
     },
     "licenseXml": {
-      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/license.xml"
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Dev/license.xml"
     },
     "sqlServerLogin": {
       "value": "gmacdevsa"
@@ -30,7 +30,7 @@
       "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/XP0/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_xp0xconnectsolr.scwdp.zip"
     },
     "authCertificateBlob": {
-      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/CA6D6779A583DB53FA8DD41659038A2E7DDD85C5.pfx"
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Dev/CA6D6779A583DB53FA8DD41659038A2E7DDD85C5.pfx"
     },
     "authCertificatePassword": {
       "value": "GM@C2022!"
