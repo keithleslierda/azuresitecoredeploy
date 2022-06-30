@@ -10,7 +10,7 @@ $Parameters = @{
 
      #set the size of all recommended instance sizes  
 
-     "sitecoreSKU"="Small";
+     #"sitecoreSKU"="Small";
 
      #by default this installs azuresearch
 
