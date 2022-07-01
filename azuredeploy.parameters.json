@@ -9,19 +9,19 @@
       "value": "EastUS2"
     },
     "sitecoreAdminPassword": {
-      "value": "9A4oEboY"
+      "value": "ke98aKWf"
     },
     "licenseXml": {
-      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/license.xml"
+      "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Test/license.xml"
     },
     "repAuthenticationApiKey": {
-      "value": "HjHUuEo4hkn6Z4EEVJFVbY8syhWYCUWw"
+      "value": "GkGUuEo4erd6Z4EEVJFVbY8xthWYCUWw"
     },
     "sqlServerLogin": {
-      "value": "gmacdevsa"
+      "value": "gmactestsa"
     },
     "sqlServerPassword": {
-      "value": "72gmTfMPweYBvApryux9"
+      "value": "Xu2N8yFQZb"
     },
     "siMsDeployPackageUrl": {
       "value": "https://gmacsitecore.blob.core.windows.net/sitecorewdp/Sitecore%2010.2.0%20rev.%20006766%20(Cloud)_dds.scwdp.zip"

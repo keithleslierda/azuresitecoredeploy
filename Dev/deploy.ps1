@@ -26,4 +26,4 @@ Import-Module $SCSDK\tools\Sitecore.Cloud.Cmdlets.psm1
 Import-Module Az.Accounts
 Connect-AzAccount
 Set-AzContext -SubscriptionId $SubscriptionId 
-Start-SitecoreAzureDeployment -Name $DeploymentId -Location $Location -ArmTemplateUrl "$SCTemplates/azuredeploy.json"  -ArmParametersPath $ParamFile  -LicenseXmlPath $LicenseFile  -SetKeyValue $Parameters
+Start-SitecoreAzureDeployment -Name $DeploymentId -Location $Location -ArmTemplateUrl "$SCTemplates/azuredeploy.json"  -ArmParametersPath $ParamFile  -LicenseXmlPath $LicenseFile  -SetKeyValue $Parameters -Debug
